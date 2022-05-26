@@ -92,6 +92,9 @@ nav ul li a:hover {
   .menu-icon {
     display: block;
   }
+  .mast-text{
+    display: none;
+  }
 
   #menuList {
     overflow: hidden;
